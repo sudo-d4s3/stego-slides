@@ -294,6 +294,7 @@ text chunk format
 
 ### Chunk Stuffing cont.
 **Private Chunks**
+
 ::: notes
 
 The first character should be lower case because in-spec parsers will error out an unknown critical chunk<br>
